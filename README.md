@@ -26,7 +26,7 @@ The goal was to explore how different economic variables influence target sales 
 - Scikit-learn – machine learning modeling and evaluation
 
 ## 🔍 Project Workflow
-1. Data Preprocessing
+### 1. Data Preprocessing
 
 - Loaded financial and macroeconomic data (simulated_financial_forecasting_data.csv)
 
