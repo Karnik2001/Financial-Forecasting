@@ -36,7 +36,7 @@ The goal was to explore how different economic variables influence target sales 
 
 - Scaled numerical features using StandardScaler
 
-2. Exploratory Data Analysis
+### 2. Exploratory Data Analysis
 
 - Generated distribution plots for variables such as sales, GDP growth, unemployment rate, and inflation.
 
@@ -44,7 +44,7 @@ The goal was to explore how different economic variables influence target sales 
 
 - Summarized basic statistics using describe() to understand the dataset structure.
 
-3. Model Development
+### 3. Model Development
 
 - Implemented two ensemble-based regression models:
 
@@ -52,7 +52,7 @@ The goal was to explore how different economic variables influence target sales 
 
 - Gradient Boosting Regressor – fine-tuned with learning rate adjustments for higher predictive accuracy.
 
-4. Model Evaluation
+### 4. Model Evaluation
 
 - Models were evaluated using:
 
@@ -66,7 +66,7 @@ The goal was to explore how different economic variables influence target sales 
 
 - Max Error
 
-5. Visualization
+### 5. Visualization
 
 - Plotted predicted vs. actual sales values for both models.
 
